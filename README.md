@@ -1,7 +1,6 @@
 # 🖱️ Adobe Cursors Pack for Windows
 
-![Adobe Cursors Pack Screenshot](https://github.com/eugilvando/Adobe-cursors-for-Windows/image/screenshot.jpg)
-
+![Adobe Cursors Pack Screenshot](https://github.com/eugilvando/Adobe-cursors-for-Windows/blob/main/screenshot.jpg)
 A sleek cursor set inspired by Adobe's visual style.
 
 ---
