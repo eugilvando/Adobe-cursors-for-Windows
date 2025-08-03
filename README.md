@@ -48,4 +48,4 @@ This project is licensed under the **MIT License** — see [LICENSE.md](https://
 
 ---
 
-> Tested on Windows 10 & 11 at 4K scaling (100%)
+> Tested on Windows 10 & 11.
