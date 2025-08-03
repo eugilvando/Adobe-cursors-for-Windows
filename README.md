@@ -27,7 +27,7 @@ A sleek cursor set inspired by Adobe's visual style.
 
 ## 🛠️ Installation Guide
 
-1. Choose the folder with your preferred type and size.
+1. Choose the folder **Adobe Cursors Pack**
 2. Right-click `Install.inf` and select **Install**.
 3. Accept the installation prompt. The **Mouse Properties** window will open.
 4. Click **OK**, apply the new cursor theme, and enjoy!
